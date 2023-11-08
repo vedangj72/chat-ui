@@ -1,0 +1,29 @@
+.self {
+    background-color: #1C63D5;
+    width: 75%;
+    text-align: end;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border-radius: 15px;
+    margin: 20px;
+    margin-left: auto;
+    /* Push the div to the end */
+}
+
+.other {
+    /* background-color: rgba(250, 250, 250, 0.817); */
+    width: 75%;
+    text-align: start;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    /* margin-s: 100px; */
+}
